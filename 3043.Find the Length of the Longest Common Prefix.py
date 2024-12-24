@@ -37,3 +37,30 @@ class Solution:
         return longest
 
 #IMPORTANT: Approach 2 (Hash Set)
+class Solution:
+    def longestCommonPrefix(self, arr1: List[int], arr2: List[int]) -> int:
+        prefixmap = {}
+        
+        for num in arr1:
+            num = str(num)
+            prefix = ""
+            for ch in num:
+                prefix+=ch
+                prefixmap[prefix]=prefixmap.get(prefix,0)+1
+        
+        max_length = 0
+        for num in arr2:
+            num = str(num)
+            prefix =""
+            for ch in num:
+                prefix+=ch
+                if prefix in prefixmap:
+                    max_length = max(max_length,len(prefix))
+        return max_length        
+
+'''
+Code Explanation:
+1. For each integer in Array 1, convert to string
+2. for letter in string, add to prefix, get from prefix map if prefix exists, else assign 0 and add 1 to count
+3. Iteratee similarly, check if prefix exists in prefix map and then update the max_length if current prefix length is bigger
+'''
