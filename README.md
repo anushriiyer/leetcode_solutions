@@ -14,3 +14,4 @@ Problem Number  | Problem  Name        | Solution with Concepts                 
 |  3043   | Find the Length of the Longest Common Prefix | [Hash Set (Dictionary)](https://github.com/anushriiyer/leetcode_solutions/blob/main/3043.Find%20the%20Length%20of%20the%20Longest%20Common%20Prefix.py)| Medium |
 | 136| Single Number| [Hash Set(Dictionary)](https://github.com/anushriiyer/leetcode_solutions/blob/main/136.%20Single%20Number.py)| Easy|
 | 219 | Contains Duplicates II| | Easy|
+|1492 | Kth factor of N| [Math](https://github.com/anushriiyer/leetcode_solutions/blob/main/1492.%20The%20kth%20Factor%20of%20n.py)| Medium|
