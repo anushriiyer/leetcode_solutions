@@ -1,7 +1,7 @@
 # Leetcode Solutions
 
 <div align="center">
-    <img src="studying-windy.gif" width="400" alt="Studying Windy">
+    <img src="README/studying-windy.gif" width="400" alt="Studying Windy">
 </div>
 
 
