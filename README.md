@@ -18,3 +18,4 @@ Problem Number  | Problem  Name        | Solution with Concepts                 
 |49| Group Anagrams|[Hash Map](https://github.com/anushriiyer/leetcode_solutions/blob/main/49.%20Group%20Anagrams.py)| Medium|
 |347|Top K Frequent Elements|[Hash Map](https://github.com/anushriiyer/leetcode_solutions/blob/main/347.%20Top%20K%20Frequent%20Elements.py)| Medium|
 |238| Products of Array except Self| [Prefix, Suffix, Lists](https://github.com/anushriiyer/leetcode_solutions/blob/main/238.Products%20of%20Array%20Except%20Self.py)| Medium|
+|36|Valid Sudoku| [Hash Set](https://github.com/anushriiyer/leetcode_solutions/blob/main/36.Valid%20Sudoku.py)| Medium|
