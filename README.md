@@ -21,3 +21,6 @@ Problem Number  | Problem  Name        | Solution with Concepts                 
 |36|Valid Sudoku| [Hash Set](https://github.com/anushriiyer/leetcode_solutions/blob/main/36.Valid%20Sudoku.py)| Medium|
 |167|Two Sum II| [Two Pointers](https://github.com/anushriiyer/leetcode_solutions/blob/main/167.%20Two%20Sum%20II.py)| Medium|
 |11|Container with Most Water| [Two Pointers](https://github.com/anushriiyer/leetcode_solutions/blob/main/11.%20Container%20With%20Most%20Water.py)| Medium|
+|42|Trapping Rain Water| [Two Pointers](https://github.com/anushriiyer/leetcode_solutions/blob/main/42.%20Trapping%20Rain%20Water.py)| Hard|
+|20|Valid Parenthesis| [Stack](https://github.com/anushriiyer/leetcode_solutions/blob/main/20.%20Valid%20Parentheses.py)| Easy|
+
