@@ -20,3 +20,4 @@ Problem Number  | Problem  Name        | Solution with Concepts                 
 |238| Products of Array except Self| [Prefix, Suffix, Lists](https://github.com/anushriiyer/leetcode_solutions/blob/main/238.Products%20of%20Array%20Except%20Self.py)| Medium|
 |36|Valid Sudoku| [Hash Set](https://github.com/anushriiyer/leetcode_solutions/blob/main/36.Valid%20Sudoku.py)| Medium|
 |167|Two Sum II| [Two Pointers](https://github.com/anushriiyer/leetcode_solutions/blob/main/167.%20Two%20Sum%20II.py)| Medium|
+|11|Container with Most Water| [Two Pointers](https://github.com/anushriiyer/leetcode_solutions/blob/main/11.%20Container%20With%20Most%20Water.py)| Medium|
