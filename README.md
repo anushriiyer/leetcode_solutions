@@ -23,4 +23,5 @@ Problem Number  | Problem  Name        | Solution with Concepts                 
 |11|Container with Most Water| [Two Pointers](https://github.com/anushriiyer/leetcode_solutions/blob/main/11.%20Container%20With%20Most%20Water.py)| Medium|
 |42|Trapping Rain Water| [Two Pointers](https://github.com/anushriiyer/leetcode_solutions/blob/main/42.%20Trapping%20Rain%20Water.py)| Hard|
 |20|Valid Parenthesis| [Stack](https://github.com/anushriiyer/leetcode_solutions/blob/main/20.%20Valid%20Parentheses.py)| Easy|
+|150| Evaluate Reverse Polish Notation| [Stack](https://github.com/anushriiyer/leetcode_solutions/blob/main/Evaluate%20Reverse%20Polish%20Notation.py)| Medium|
 
