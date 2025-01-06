@@ -25,4 +25,6 @@ Problem Number  | Problem  Name        | Solution with Concepts                 
 |20|Valid Parenthesis| [Stack](https://github.com/anushriiyer/leetcode_solutions/blob/main/20.%20Valid%20Parentheses.py)| Easy|
 |150| Evaluate Reverse Polish Notation| [Stack](https://github.com/anushriiyer/leetcode_solutions/blob/main/150.Evaluate%20Reverse%20Polish%20Notation.py)| Medium|
 |1422| Maximum Score After Splitting String| [Prefix Sum](https://github.com/anushriiyer/leetcode_solutions/blob/main/1422.%20Maximum%20Score%20After%20Splitting%20a%20String.py)| Easy|
+|2381| Shifting Letters II|[Prefix Sum](https://github.com/anushriiyer/leetcode_solutions/blob/main/2381.%20Shifting%20Letters%20II.py)| Medium|
+
 
