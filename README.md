@@ -29,4 +29,6 @@ Problem Number  | Problem  Name        | Solution with Concepts                 
 |15| 3Sum |[Two Pointers](https://github.com/anushriiyer/leetcode_solutions/blob/main/15.3sum.py)|Medium|
 |83| Remove Duplicates from Sorted List.|[Linked List](https://github.com/anushriiyer/leetcode_solutions/blob/main/83.%20Remove%20Duplicates%20from%20Sorted%20List.py)|Easy|
 |206| Reverse Linked List|[Linked List](https://github.com/anushriiyer/leetcode_solutions/blob/main/206.%20Reverse%20Linked%20List.py)|Easy|
+|19|Remove Nth Node From End of List|[Linked List](https://github.com/anushriiyer/leetcode_solutions/blob/main/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.py)|Medium|
+
 
